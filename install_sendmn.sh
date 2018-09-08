@@ -85,8 +85,8 @@ apt-get install libevent-dev -y
 
 
 # Download the compiled SEND MN LINUX Daemon and CLI
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/sendd
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/send-cli
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/sendd
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/send-cli
 
 # Make the SEND MN LINUX Daemon and CLI executable
 chmod +x sendd
