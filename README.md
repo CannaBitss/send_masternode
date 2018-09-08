@@ -9,19 +9,19 @@
 
 #### This is just to copy the pre-compiled daemon. Login to your vps as root, download the install_sendmn.sh file and then run it. Note: This will reboot the server.
 ```
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/installmn.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/installmn.sh
 bash ./installmn.sh
 ```
 
 #### If you just want to install without dependencies, Login to your vps as root, download the install_sendmn_nodeps.sh file and then run it. Note: This will NOT reboot the server, use this only when you already have dependencies installed.
 ```
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/install_sendmn_nodeps.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/install_sendmn_nodeps.sh
 bash ./install_sendmn_nodeps.sh
 ```
 
 #### To compile the daemon from source code. Login to your vps as root, download the install_sendmn_compile.sh file and then run it. Note: This will reboot the server.
 ```
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/install_sendmn_compile.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/install_sendmn_compile.sh
 bash ./install_sendmn_compile.sh
 ```
 
