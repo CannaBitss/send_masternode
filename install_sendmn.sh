@@ -104,10 +104,10 @@ mkdir sendnode
 cd ~/sendnode/
 
 # Download the appropriate scripts
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/makerun.sh
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/checkdaemon.sh
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/upgrade.sh
-wget https://raw.githubusercontent.com/crypt0n1nj4/send_masternode/master/clearlog.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/makerun.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/checkdaemon.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/upgrade.sh
+wget https://raw.githubusercontent.com/CannaBitss/send_masternode/master/clearlog.sh
 
 
 # Create a cronjob for making sure sendd runs after reboot
